@@ -1,0 +1,10 @@
+body {
+    background: silver;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+}
+div.area{
+    display: inline-block;
+    margin: 10px;
+    width: 480px;
+}
